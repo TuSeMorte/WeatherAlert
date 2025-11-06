@@ -3,7 +3,7 @@ import requests
 LAT = 40.5754#32.817421
 LONG =  -122.3836#-85.171463
 #
-API_KEY = "30cb838fa0840be068201bf5ead34753" 
+API_KEY = "{YOUOWNAPIKEY}"
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/forecast"
 print(API_KEY)
 params = {
